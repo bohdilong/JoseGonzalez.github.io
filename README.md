@@ -5,7 +5,7 @@ These are some small projects I made using JavaScript.
 ## Projects<br>
 <a href="">Pizza Menu</a><br>
 <a href="">Tic Tac Toe Game</a><br>
-<a href="">Calculator</a><br>
+<a href="https://github.com/bohdilong/JavaScriptProjects/tree/main/Calculator">Calculator</a><br>
 
 ## Pizza Menu<br>
 This project is a menu used to order pizza with a various selection of toppings.<br> 
